@@ -15,16 +15,16 @@ body:
     validations:
       required: true
   - type: markdown
+    description: "What is the issue that we are seeing that is motivating this decision or change?"
     attributes:
       label: Context
-      description: "What is the issue that we are seeing that is motivating this decision or change?"
 
   - type: markdown
+    description: "What is the change that we are proposing and/or doing?"
     attributes:
       label: Decision
-      description: "What is the change that we are proposing and/or doing?"
 
   - type: markdown
+    description: "What becomes easier or more difficult to do because of this change?"
     attributes:
       label: Consequences
-      description: "What becomes easier or more difficult to do because of this change?"
