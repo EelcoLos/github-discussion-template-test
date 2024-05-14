@@ -15,9 +15,7 @@ body:
     validations:
       required: true
   - type: markdown
-    validations:
-      required: true
     attributes:
-      label: Context
-      description: >
-        What is the issue that we're seeing that is motivating this decision or change?
+      value: |
+        ## Markdown header
+        And some more markdown
