@@ -16,6 +16,5 @@ body:
       required: true
   - type: markdown
     attributes:
-      label: Context
       value: |
         test
