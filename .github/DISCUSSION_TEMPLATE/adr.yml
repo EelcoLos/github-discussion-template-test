@@ -11,4 +11,4 @@ body:
         - Rejected
         - Deprecated
         - Superseded
-    default: 0
+      default: 0
