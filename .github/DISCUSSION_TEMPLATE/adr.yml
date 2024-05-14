@@ -14,7 +14,21 @@ body:
       default: 0
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
-      value: |
-        test
+      label: Context
+      description: "What is the issue that we are seeing that is motivating this decision or change?"
+      placeholder: |
+        _needs to be edited_
+  - type: textarea
+    attributes:
+      label: Decision
+      description: "What is the change that we are proposing and/or doing?"
+      placeholder: |
+        _needs to be edited_
+  - type: textarea
+    attributes:
+      label: Consequences
+      description: "What becomes easier or more difficult to do because of this change?"
+      placeholder: |
+        _needs to be edited_
