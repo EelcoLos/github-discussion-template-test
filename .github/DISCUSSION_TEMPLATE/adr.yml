@@ -1,5 +1,5 @@
 title: "[ADR] "
-labels: ["ADR"]
+labels: ["documentation"]
 body:
   - type: dropdown
     attributes:
