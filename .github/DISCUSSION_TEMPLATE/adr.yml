@@ -15,8 +15,7 @@ body:
     validations:
       required: true
   - type: markdown
-    validations:
-      required: true
     attributes:
-      description: >
-        What is the issue that we're seeing that is motivating this decision or change?
+      label: Context
+      value: |
+        test
