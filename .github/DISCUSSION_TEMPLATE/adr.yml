@@ -12,3 +12,5 @@ body:
         - Deprecated
         - Superseded
       default: 0
+    validations:
+      required: true
